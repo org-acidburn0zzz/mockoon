@@ -46,7 +46,7 @@
     "express": "4.17.1",
     "handlebars": "4.7.6",
     "killable": "1.0.1",
-    "mime-types": "2.1.26",
+    "mime-types": "2.1.27",
     "mkdirp": "1.0.3",
     "object-path": "0.11.4",
     "qs": "6.9.3",
